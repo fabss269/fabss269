@@ -14,7 +14,6 @@
 ## 📚 Me gusta aprender sobre...
 - **Matemáticas para programación** 📐
 - **Filosofía y pensamiento crítico** 🤯
-- **Ciberseguridad y criptografía** 🔐
 - **Machine Learning & Data Science** 📊
 
 ## 📬 Contáctame
