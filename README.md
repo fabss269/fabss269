@@ -1,4 +1,4 @@
-# 👋 ¡Hi there, soy Fabss!
+# 👋 ¡Hi there, I´m Fabss!
 
 ## 🎯 Objetivos
 - Especializarme en **Data Science e Inteligencia Artificial** 🤖📊
