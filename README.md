@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hi there, soy Fabss!
 
-<!--
-**fabss269/fabss269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Objetivos
+- Especializarme en **Data Science e Inteligencia Artificial** 🤖📊
+- Mejorar mis habilidades en **estructuras de datos y algoritmos**
+- Dominar **Python, JavaScript y Java** para el desarrollo de software
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- **Lenguajes de Programación:** Python, Java, JavaScript
+- **Bases de Datos:** PostgreSQL, SQL Server, MySQL
+- **Control de Versiones:** Git y GitHub
+- **Desarrollo Web:** HTML, CSS, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Me gusta aprender sobre...
+- **Matemáticas para programación** 📐
+- **Filosofía y pensamiento crítico** 🤯
+- **Ciberseguridad y criptografía** 🔐
+- **Machine Learning & Data Science** 📊
+
+## 📬 Contáctame
+- 📧 [fabianapm060126@gmail.com](#) (Añade tu email aquí)
+
+¡Siempre estoy abierta a aprender y colaborar en proyectos interesantes! 🚀✨
