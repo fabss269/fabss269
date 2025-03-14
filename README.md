@@ -17,6 +17,6 @@
 - **Machine Learning & Data Science** 📊
 
 ## 📬 Contáctame
-- 📧 [fabianapm060126@gmail.com](#) (Añade tu email aquí)
+- 📧 [fabianapm060126@gmail.com](#)
 
 ¡Siempre estoy abierta a aprender y colaborar en proyectos interesantes! 🚀✨
