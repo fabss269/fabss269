@@ -15,12 +15,12 @@
 - **Web development:**  
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-## 📚 Me gusta aprender sobre...
-- **Matemáticas para programación** 📐
-- **Filosofía y pensamiento crítico** 🤯
+## 📚 I enjoy learning about...
+- **Mathematics for Programming** 📐
+- **Philosophy and Critical Thinking** 🤯
 - **Machine Learning & Data Science** 📊
 
-## 📬 Contáctame
+## 📬 Contact me
 - 📧 [fabianapm060126@gmail.com](#)
 
 ¡Siempre estoy abierta a aprender y colaborar en proyectos interesantes! 🚀✨
